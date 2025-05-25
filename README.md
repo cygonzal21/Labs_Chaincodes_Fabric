@@ -105,7 +105,7 @@ Desplegar el contrato:
 
 ---
 
-## ⚙️ Scenario 2: Source Code Change and Repackaging (Org3)
+## ⚙️ Scenario 2: Source Code Change and Repackaging (Lo hice para la organización 3, está en el Scenario 3. En este paso desplegué el contrato para Org1 y Org2. Hice un par de query y un invoke.)
 
 Desplegar el contrato:
 
