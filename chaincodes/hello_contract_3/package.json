@@ -1,0 +1,25 @@
+{
+  "name": "hello_contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "engineStrict": true,
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "fabric-chaincode-node start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.8",
+    "fabric-shim": "^2.5.8",
+    "json-stringify-deterministic": "^1.0.12",
+    "sort-keys-recursive": "^2.1.10"
+  }
+}
